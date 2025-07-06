@@ -1,0 +1,3 @@
+[submodule "tams"]
+	path = tams
+	url = https://github.com/bbc/tams.git
