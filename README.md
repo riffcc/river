@@ -1,5 +1,7 @@
 # River - Collaborative Video/Audio Editor
 
+!! Work in progress, not ready yet.
+
 River is a decentralized, collaborative video and audio editing platform built on the TAMS (Time-addressable Media Store) standard and powered by the Riff.CC Lens SDK for peer-to-peer collaboration.
 
 ## 🌊 Overview
